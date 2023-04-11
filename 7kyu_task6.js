@@ -14,6 +14,7 @@ Examples
 "This is an example!" ==> "sihT si na !elpmaxe"
 "double  spaces"      ==> "elbuod  secaps"
 */
+
 2. 
 function reverseWords(str) {
     let arr = []

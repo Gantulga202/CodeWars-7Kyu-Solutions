@@ -28,6 +28,7 @@ Examples
 * Input: [5,3,2,1,4], output = [5,3,2,4]
 * Input: [2,2,1,2,1], output = [2,2,2,1]
 */
+
 2. 
 function removeSmallest(numbers) {
     

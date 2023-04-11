@@ -17,6 +17,7 @@ Note: The function accepts an integer and returns an integer.
 
 Happy Coding!
 */
+
 2. 
 function squareDigits(num){
   
