@@ -36,10 +36,4 @@ function removeSmallest(numbers) {
     let smallestValue = numbers.indexOf(Math.min(...numbers))
     copy.splice(smallestValue, 1);
     return copy
-   }
-
-
-  
-  
-  
-  
+}
