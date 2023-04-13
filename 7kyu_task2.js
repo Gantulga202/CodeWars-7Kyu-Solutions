@@ -24,9 +24,3 @@ function squareDigits(num){
     return Number(num.toString().split('').map( item => item**2 ).join(''))
     
   }
-
-  
-  
-  
-  
-  
