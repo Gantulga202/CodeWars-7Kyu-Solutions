@@ -40,8 +40,3 @@ function openOrSenior(data){
     } )
     return arr
   }
-  
-  
-  
-  
-  
